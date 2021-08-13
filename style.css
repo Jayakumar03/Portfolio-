@@ -9,7 +9,7 @@ hr {
 
 body {
     font-family: 'Lato', sans-serif;
-    
+
 
 }
 
@@ -78,8 +78,8 @@ body {
     color: whitesmoke;
     font-weight: bolder;
     font-size: xx-large;
-    text-align: left;   
-    
+    text-align: left;
+
 }
 
 
@@ -91,7 +91,7 @@ body {
 
 
 .links {
-    color:whitesmoke;
+    color: whitesmoke;
     text-decoration: none;
 
 }
@@ -111,12 +111,13 @@ body {
 }
 
 .photostyle {
-    max-width:60%;;
-    display:block;
+    max-width: 60%;
+    ;
+    display: block;
     margin: auto;
-    margin-top:2rem;
-    margin-bottom:2rem;
-    
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
 
 }
 
@@ -139,7 +140,7 @@ body {
         padding-bottom: 0.5rem;
         font-weight: bolder;
         text-align: center;
-    
+
     }
 
 
@@ -152,6 +153,3 @@ body {
         padding-bottom: 1rem;
         font-weight: bolder;
     }
-
-  
-    
