@@ -82,10 +82,12 @@ body{
     border-radius: 20px;
     height: 200px;
     position: relative;
-    left:7%;
-    margin-top: 5%;
+    left:9%;
+    margin-top: 10%;
     border: #d4d8e4 solid 2px ;
 }
+
+
 
 
 .secondary-links {
@@ -107,8 +109,10 @@ body{
 
 .footer{
     position: relative;
-    margin-top: 20%;
+    margin-top: 30%;
 }
+
+
 
 /* old code
 hr {
