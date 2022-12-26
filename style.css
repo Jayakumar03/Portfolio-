@@ -95,9 +95,11 @@ body{
     color: rgb(185, 90, 90);
     border-radius: 0.7rem;
     padding: 0.5rem 0.5rem;
-    border: solid 1px;
+    border: solid 2px;
     border-color: #aeb6cc;
     text-decoration: none;
+    position: relative;
+    top: 0.75rem;
 }
 
 
@@ -110,6 +112,46 @@ body{
 .footer{
     position: relative;
     margin-top: 30%;
+}
+
+
+/* projects */
+.projects{
+
+    display: grid;
+    grid-template-columns: 25% 25% 25%;
+    gap: 2rem;
+    position: relative;
+    top: 50px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.seperate-project{
+    width: 100%;
+    height: 300px;
+    border: solid rgb(221, 210, 210) 2px;
+    background-color: rgb(157, 219, 219);
+}
+
+.image-projects{
+    position: relative;
+    top: 20px;
+}
+
+.project-live-link{
+    position: relative;
+    top: 100px;
+    justify-content: center;
+    align-items: center;
+    border: solid red 2px;
+    background-color:white ;
+    color:brown;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 10px;
+    
 }
 
 
